@@ -4,16 +4,16 @@ This project demonstrates containerizing a Node.js application and pushing it to
 
 ## 1. Docker Build Command
 This screenshot shows the successful build of the Docker image.
-![Build](./screenshots/build.png)
+![Build](./screenshots/build.png.png)
 
 ## 2. Docker Hub Image
 This screenshot shows the image available on my Docker Hub repository.
-![Docker Hub](./screenshots/hub.png)
+![Docker Hub](./screenshots/hub.png.png)
 
 ## 3. Running Docker Container
 This screenshot shows the container running using the 'docker ps' command.
-![Running](./screenshots/ps.png)
+![Running](./screenshots/ps.png.png)
 
 ## 4. Live Application
 This screenshot shows the application running successfully in the browser.
-![Live](./screenshots/live.png)
+![Live](./screenshots/live.png.png)
